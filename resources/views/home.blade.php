@@ -193,7 +193,7 @@
 
   <img
     class="hero-photo-landing"
-    src="https://via.placeholder.com/400x600/1e3c72/ffffff?text=Your+Photo"
+    src="https://via.placeholder.com/400x600/c1e3c72/ffffff?text=Your+Photo"
     alt="Lawrence Alcantara"
   />
 
